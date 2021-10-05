@@ -13,7 +13,7 @@ This API Client supports SportMonks v2.0.
 
 ### Installation
 
-`composer require hristonev/sportmonks-client-bundle`
+`composer require thomas1511/sportmonks-client-bundle`
 
 ## Configuration
 
